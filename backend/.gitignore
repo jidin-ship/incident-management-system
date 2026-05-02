@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+
+# Environment variables
+.env
+
+# Docker
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
